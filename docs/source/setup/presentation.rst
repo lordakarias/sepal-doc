@@ -151,7 +151,7 @@ For example, select the :code:`Downloads` folder to display the folders containi
     :align: center
     :width: 50%
 
-In the upper right, there are four buttons (from left to right; the three right-most buttons will be inactive until you select a file):
+In the upper left, there are four buttons (from left to right; the three right-most buttons will be inactive until you select a file):
 
 -   The first button will show hidden files (files and folder names starting with **.**).
 -   The second button will download selected data to your local computer.
