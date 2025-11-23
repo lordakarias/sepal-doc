@@ -7,7 +7,7 @@ In this article, learn to:
 -   navigate the interface
 -   use the functionalities of the platform
 
-Prequisities include:
+Prerequisites include:
 
 -   internet access
 -   SEPAL account (see `Register <https://docs.sepal.io/en/latest/setup/register.html>`_)
