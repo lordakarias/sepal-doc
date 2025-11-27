@@ -105,10 +105,14 @@ Select the green :icon:`fa-solid fa-circle-plus` button in the lower-right corne
 Save a recipe
 -------------
 
+To save a recipe, either double click the displayed name on the open tab and enter your preferred name, or select the :btn:`<fa-solid fa-bars>` in the upper-right corner and choose Save Recipe.
+
 .. note::
 
     Using saved recipes is the recommended method for sharing parameters to developers when debugging.
 
+Export a recipe
+-------------
 Select a recipe in the main menu to display it in a tab.
 
 Then select :btn:`<fa-solid fa-bars>` in the upper-right corner and select :btn:`Export recipe`.
